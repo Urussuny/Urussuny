@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Urussuny 🖐️
 
-[![Blog](https://img.shields.io/website?label=urussunyninfo67.blogspot.com&style=for-the-badge&url=https://urussunyninfo67.blogspot.com/)](https://urussunyninfo67.blogspot.comm)
+[![Blog](https://img.shields.io/website?label=urussunyninfo67.blogspot.com&style=for-the-badge&url=https://urussunyninfo67.blogspot.com/)](https://urussunyninfo67.blogspot.com)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/user/ni23melville)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/urusuny/)
 
